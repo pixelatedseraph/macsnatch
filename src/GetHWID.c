@@ -9,7 +9,7 @@
 #include <sys/types.h>
 #include <linux/sockios.h>
 #include <dirent.h>
-#include "hwkeygen.h"
+#include "macsnatch.h"
 
 char *GetHWID()
 {
