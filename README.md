@@ -12,4 +12,4 @@ Toughened Hash generation
 Key escrow/backup strategies
 Hardware change policies
 License server integration
-Anti-debugging measures
+
