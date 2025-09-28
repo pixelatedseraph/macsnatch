@@ -10,4 +10,4 @@ Current State: Development
 Production Considerations:
 Toughened Hash generation
 Key escrow/backup strategies
-Hardware change policies
+Hardware change policies!
